@@ -10,7 +10,7 @@ Hier finden Sie Material zum Vortrag und zum Workshop:
   - Eins-durch-Wurzel-n-PI-Veh.ipynb
   - Hypothesentest-Spiegelung-Power-Veh.ipynb
   
-Das Programme ist auch ohne Installation in einem Browser lauffähig:
+Die Programme sind auch ohne Installation in einem Browser lauffähig:
 - Hypothesentest-Ueberbuchung-Veh.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/Hypothesentest/main?filepath=Hypothesentest-Ueberbuchung-Veh.ipynb)
 - Eins-durch-Wurzel-n-PI-Veh.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/Hypothesentest/main?filepath=Eins-durch-Wurzel-n-PI-Veh.ipynb)
 - Hypothesentest-Spiegelung-Power-Veh.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/Hypothesentest/main?filepath=Hypothesentest-Spiegelung-Power-Veh.ipynb)
