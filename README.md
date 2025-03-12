@@ -2,7 +2,7 @@ Hier finden Sie Material zum Webinar:
 - die Präsentation
 - sämtliche GeoGebra-Dateien
   
-Zusätzlich ein Python-Programme:
+Zusätzlich ein Python-Programm:
 - Hypothesentest-Ueberbuchung-Veh.ipynb
 
 Das Programme ist auch ohne Installation in einem Browser lauffähig:
