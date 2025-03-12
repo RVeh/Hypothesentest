@@ -1,4 +1,4 @@
-Hier finden Sie Material zum Webinar:
+Hier finden Sie Material zum Vortrag:
 - die Präsentation
 - sämtliche GeoGebra-Dateien
   
