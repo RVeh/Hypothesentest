@@ -17,4 +17,4 @@ Tipp: Wenn alles hochgeladen und die nötigen Pakete hinzugeladen worden sind, m
 - Eins-durch-Wurzel-n-PI-Veh.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/Hypothesentest/main?filepath=Eins-durch-Wurzel-n-PI-Veh.ipynb)
 - Hypothesentest-Spiegelung-Power-Veh.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/Hypothesentest/main?filepath=Hypothesentest-Spiegelung-Power-Veh.ipynb)
 
-![Bildschirmfoto 2025-03-12 um 21 00 52](https://github.com/user-attachments/assets/7b4067d3-2c83-43fd-8d37-e3878e7c9f4a)
+![Bildschirmfoto 2025-03-13 um 16 29 12](https://github.com/user-attachments/assets/349e6e39-4b0b-4e95-9a3a-a3dcdcf278df)
